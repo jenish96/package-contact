@@ -1,0 +1,19 @@
+{
+    "name": "demo/contact",
+    "description": "its store contact form details to DB.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JENISH",
+            "email": "jenishborda@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\Contact\\": "src/"
+        }
+    }
+}

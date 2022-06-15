@@ -1,5 +1,5 @@
 {
-    "name": "demo/contact",
+    "name": "democontact/contact",
     "description": "its store contact form details to DB.",
     "type": "library",
     "license": "MIT",
